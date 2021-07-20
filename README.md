@@ -13,3 +13,4 @@ I sure hope this data will help You to become a Pokemon Master!
 CHANGELOG
 13.07.2021-added pbix file, created homepage with functioning buttons redirecting to other pages (page not finished)
 18.07.2021-replaced pbix file, added welcome pane, embedded gifs on type icons, backgrounds on each page (page not finished)
+20.07.2021-replaced pbix file, added rest of the gifs on type icons (homepage finished for now)
